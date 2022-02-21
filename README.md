@@ -1,6 +1,6 @@
 # When, Why, and Which Pretrained GANs Are Useful?
 
-This repository contains supplementary code for the ICLR'22 paper [_When, Why, and Which Pretrained GANs Are Useful?_](https://openreview.net/forum?id=4Ycr8oeCoIh) by Timofey Grigoryev*, Andrey Voynov*, and Artem Babenko.
+This repository contains supplementary code for the ICLR'22 paper [_When, Why, and Which Pretrained GANs Are Useful?_](https://arxiv.org/abs/2202.08937) by Timofey Grigoryev*, Andrey Voynov*, and Artem Babenko.
 
 __TL;DR__:
 
