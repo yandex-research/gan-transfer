@@ -30,12 +30,12 @@ We also release the GAN-transfer playground code.
 ## Citation
 
 ```
-@InProceedings{gan_transfer_iclr22,
-    author    = {Grigoryev, Timofey and Voynov, Andrey and Babenko, Artem},
-    title     = {Navigating the GAN Parameter Space for Semantic Image Editing},
-    booktitle = {},
-    month     = {},
-    year      = {2022},
-    pages     = {}
+@misc{www_gan_transfer_iclr22,
+      title={When, Why, and Which Pretrained GANs Are Useful?}, 
+      author={Timofey Grigoryev and Andrey Voynov and Artem Babenko},
+      year={2022},
+      eprint={2202.08937},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
